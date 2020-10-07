@@ -3,8 +3,8 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Nguyen Luong
@@ -14,7 +14,6 @@ sidebar:
     # Sidebar links
     email: lm.nguyen0108@gmail.com
     phone: 094 421 7899
-    website: blog.webjeda.com #do not add http://
     linkedin: icyblue0108
     skype: # add your nickname without '@' sign
 
@@ -26,13 +25,13 @@ sidebar:
         level: Native
 
     interests:
-      - item: Climbing
+      - item: Gaming
         link:
 
-      - item: Snowboarding
+      - item: DIY
         link:
 
-      - item: Cooking
+      - item: Music
         link:
 
 career-profile:
