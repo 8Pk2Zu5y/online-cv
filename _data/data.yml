@@ -15,7 +15,7 @@ sidebar:
     email: lm.nguyen0108@gmail.com
     phone: 094 421 7899
     linkedin: icyblue0108
-    skype: # add your nickname without '@' sign
+    skype: icyblue0108 # add your nickname without '@' sign
 
     languages:
       - idiom: English
@@ -37,73 +37,67 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      I am game enthusiast. As an active subscriber of several popular gaming networks, I always keep myself up to date with the industry’s trends and best practices.
+      
+      In terms of Professional Game Development, I had my first mobile game published successfully at 2014. 
+      With more than 5 years of experience in Game Design expertise, I have accumulated a broad skill set as designing games for many well-acclaimed Western game publishers and game portals i.e. Miniclip, Nickelodeon, Kongregate, Scopely. 
+      I am having/capable of:
+      -Deep understanding of game mechanics;
+      -Experiences in bringing games all the way from concepts to well-polished product and commercial success;
+      -Driving the creation of fun and highly accessible innovative game systems and feature that lead to high engagement;
+      -Ability to design and further improve F2P monetization features.
+      
+      I worked at Gear Inc. as Lead Game Designer. We make fun and engaging games for smartphone (iOS and Android) and Web (HTML5).
+      I am learning to develop Virtual Reality (VR) games using Unity for Oculus Rift. Mastering the use of VR technology for AAA Game Development is part of my career plan in the near future
+
 education:
-    - degree: MSc in Computer Science
-      university: University of London
+    - degree: Bachelor of Arts in Business Management
+      university: University of Sunderland
+      time: 2010 - 2013
+      details: |
+        Describe your study here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. 
+        
+    - degree: ACCA Qualification, Advance Diploma In Accounting and Business
+      Institute: FTMS Global College
       time: 2011 - 2012
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        adipiscing elit. 
+        
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Consultant
+      time: 2013 - 2014
+      company: MCG Management Consulting
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
+        adipiscing elit. 
+        MCG is one of the leading management consulting firms in Vietnam, specializing in economic reform in the development arena, and corporate restructuring in the business community. 
+        I participated in various development projects funded by Vietnamese government and International institutions
+         - World Bank
+         - ADB
+         - JICA
+        
+    - role: Operation Manager
       time: 2014 - 2015
-      company: Google, London
+      company: VTC Game
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
+        Founded in 2006, VTC Intecom is one of the leading enterprises in building the development platform for the Vietnamese digital content industry. 
+        I designed, published and operated popular online mobile games for Vietnamese market:
+          - Au3D
+          - Tam Quoc VTC
+          
+    - role: Lead Game Designer
+      time: 2015 - 2018
       company: Amazon, London
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        International staff, global clients, and global titles allow Gear Inc. to offer games to everyone worldwide in any marketplace.
+        I designed mobile/web games for both in-house development team and outsourcing clients:
+          - Final Fortress for AlleyLabs, 
+          - Tribal Mania for Lumba, 
+          - Harvest Honor for SpilGames, 
+          - Virtual Voodoo for Miniclip, 
+          - YAHTZEE® With Buddies and WWE Champions for Scopely.
 projects:
     title: Projects
     intro: >
