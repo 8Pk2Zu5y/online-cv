@@ -15,7 +15,6 @@ sidebar:
     email: lm.nguyen0108@gmail.com
     phone: 094 421 7899
     linkedin: icyblue0108
-    skype: icyblue0108 # add your nickname without '@' sign
 
     languages:
       - idiom: English
@@ -40,12 +39,12 @@ career-profile:
       I am game enthusiast. As an active subscriber of several popular gaming networks, I always keep myself up to date with the industry’s trends and best practices.
       
       In terms of Professional Game Development, I had my first mobile game published successfully at 2014. 
-      With more than 5 years of experience in Game Design expertise, I have accumulated a broad skill set as designing games for many well-acclaimed Western game publishers and game portals i.e. Miniclip, Nickelodeon, Kongregate, Scopely. 
+      With more than 6 years of experience in Game Design expertise, I have accumulated a broad skill set as designing games for many well-acclaimed Western game publishers and game portals i.e. Miniclip, Nickelodeon, Kongregate, Scopely. 
       I am having/capable of:
-      -Deep understanding of game mechanics;
-      -Experiences in bringing games all the way from concepts to well-polished product and commercial success;
-      -Driving the creation of fun and highly accessible innovative game systems and feature that lead to high engagement;
-      -Ability to design and further improve F2P monetization features.
+        - Deep understanding of game mechanics;
+        - Experiences in bringing games all the way from concepts to well-polished product and commercial success;
+        - Driving the creation of fun and highly accessible innovative game systems and feature that lead to high engagement;
+        - Ability to design and further improve F2P monetization features.
       
       I worked at Gear Inc. as Lead Game Designer. We make fun and engaging games for smartphone (iOS and Android) and Web (HTML5).
       I am learning to develop Virtual Reality (VR) games using Unity for Oculus Rift. Mastering the use of VR technology for AAA Game Development is part of my career plan in the near future
@@ -55,15 +54,19 @@ education:
       university: University of Sunderland
       time: 2010 - 2013
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. 
+        BA (Hons) Business and Management aims to develop reflexive, innovative, entrepreneurial and creative managers and leaders. 
+        The course focuses on:
+        - Professional and personal development from a range of perspectives including contemporary areas of marketing in a digital world; 
+        - The role of managers in the operations and quality process of business; 
+        - Management learning and professional development; 
+        - Developing problem solving decision makers at all levels of a business;
+        - Opportunities for creative, innovative and entrepreneurial skills development. 
         
     - degree: ACCA Qualification, Advance Diploma In Accounting and Business
       Institute: FTMS Global College
       time: 2011 - 2012
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. 
+        Develop a range of skills and an in-depth knowledge of accounting principles, management techniques and IT, enabling them to work in any area of finance
         
 experiences:
     - role: Consultant
