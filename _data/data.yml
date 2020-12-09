@@ -36,21 +36,17 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I am enthusiast game developer. As an active subscriber of several popular gaming networks, I always keep myself up to date with the industry’s trends and best practices.
-      
-      In terms of Professional Game Development, I have developed, launched and operated multiple successful web & mobile games since 2014. 
-      
+      I am enthusiast game developer. In terms of Professional Game Development, I have developed, launched and operated multiple successful web & mobile games since 2014. 
       As Senior Game Designer, I am capable of:
         - Having deep understanding of game mechanics;
         - Experiences in bringing games all the way from concepts to well-polished product and commercial success;
         - Driving the creation of fun and highly accessible innovative game systems and feature that lead to high engagement;
         - Ability to design and further improve F2P monetization features.
-      
       As Product Owner, I have accumulated a broad skill set of:
-        - Developing and own the product strategy, roadmap, and business plan for digital products;
-        - Thinking strategically and creatively to gather insights and help refine the product vision and metrics based on product data and user research;
-        - Partner with internal stakeholders to review product strategy and ensure alignment;
-        - Effective communication with cross-functional teams and work with stakeholders to launch features/processes.
+      - Developing and own the product strategy, roadmap, and business plan for digital products;
+      - Thinking strategically and creatively to gather insights and help refine the product vision and metrics based on product data and user research;
+      - Partner with internal stakeholders to review product strategy and ensure alignment;
+      - Effective communication with cross-functional teams and work with stakeholders to launch features/processes.
 
 education:
     - degree: Bachelor of Arts in Business Management
@@ -76,7 +72,8 @@ experiences:
       time: 2013 - 2014
       company: MCG Management Consulting, Vietnam
       details: |
-        MCG is one of the leading management consulting firms in Vietnam, specializing in economic reform in the development arena, and corporate restructuring in the business community. I participated in various development projects funded by Vietnamese government and International institutions
+        MCG is one of the leading management consulting firms in Vietnam, specializing in economic reform in the development arena, and corporate restructuring in the business community. 
+        I participated in various development projects funded by Vietnamese government and International institutions
          - World Bank
          - ADB
          - JICA
@@ -101,14 +98,14 @@ experiences:
           - Harvest Honor for SpilGames, 
           - Virtual Voodoo for Miniclip, 
           - YAHTZEE® With Buddies and WWE Champions for Scopely.
-          
-     - role: Product Owner
+    
+    - role: Product Owne
       time: 2018 - Present
       company: Bravestars Game, Vietnam
       details: |
-       Bravestars was founded in 2013 by a team of young gamers who dreamt of bringing our local culture to the world with video games. 
-       We take care of every single detail to release the best-quality titles to the users. 
-       Throughout our journey, we have launched nearly 20 games with hundred millions of downloads.
+        Bravestars was founded in 2013 by a team of young gamers who dreamt of bringing our local culture to the world with video games. 
+        We take care of every single detail to release the best-quality titles to the users. 
+        Throughout our journey, we have launched nearly 20 games with hundred millions of downloads.
           
 skills:
     title: Skills &amp; Proficiency
