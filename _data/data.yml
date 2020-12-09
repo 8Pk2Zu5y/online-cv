@@ -30,21 +30,27 @@ sidebar:
       - item: DIY
         link:
 
-      - item: Music
+      - item: Audio Science
         link:
 
 career-profile:
     title: Career Profile
     summary: |
-      I am game enthusiast. As an active subscriber of several popular gaming networks, I always keep myself up to date with the industry’s trends and best practices.
+      I am enthusiast game developer. As an active subscriber of several popular gaming networks, I always keep myself up to date with the industry’s trends and best practices.
       
-      In terms of Professional Game Development, I had my first mobile game published successfully at 2014. 
-      With more than 6 years of experience in Game Design expertise, I have accumulated a broad skill set as designing games for many well-acclaimed Western game publishers and game portals i.e. Miniclip, Nickelodeon, Kongregate, Scopely. 
-      I am having/capable of:
-        - Deep understanding of game mechanics;
+      In terms of Professional Game Development, I have developed, launched and operated multiple successful web & mobile games since 2014. 
+      
+      As Senior Game Designer, I am capable of:
+        - Having deep understanding of game mechanics;
         - Experiences in bringing games all the way from concepts to well-polished product and commercial success;
         - Driving the creation of fun and highly accessible innovative game systems and feature that lead to high engagement;
         - Ability to design and further improve F2P monetization features.
+      
+      As Product Owner, I have accumulated a broad skill set of:
+        - Developing and own the product strategy, roadmap, and business plan for digital products;
+        - Thinking strategically and creatively to gather insights and help refine the product vision and metrics based on product data and user research;
+        - Partner with internal stakeholders to review product strategy and ensure alignment;
+        - Effective communication with cross-functional teams and work with stakeholders to launch features/processes.
 
 education:
     - degree: Bachelor of Arts in Business Management
@@ -68,10 +74,8 @@ education:
 experiences:
     - role: Consultant
       time: 2013 - 2014
-      company: MCG Management Consulting
+      company: MCG Management Consulting, Vietnam
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. 
         MCG is one of the leading management consulting firms in Vietnam, specializing in economic reform in the development arena, and corporate restructuring in the business community. 
         I participated in various development projects funded by Vietnamese government and International institutions
          - World Bank
@@ -80,7 +84,7 @@ experiences:
         
     - role: Operation Manager
       time: 2014 - 2015
-      company: VTC Game
+      company: VTC Game, Vietnam
       details: |
         Founded in 2006, VTC Intecom is one of the leading enterprises in building the development platform for the Vietnamese digital content industry. 
         I designed, published and operated popular online mobile games for Vietnamese market:
@@ -89,7 +93,7 @@ experiences:
           
     - role: Lead Game Designer
       time: 2015 - 2018
-      company: Amazon, London
+      company: Gear Inc., USA
       details: |
         International staff, global clients, and global titles allow Gear Inc. to offer games to everyone worldwide in any marketplace.
         I designed mobile/web games for both in-house development team and outsourcing clients:
@@ -98,72 +102,23 @@ experiences:
           - Harvest Honor for SpilGames, 
           - Virtual Voodoo for Miniclip, 
           - YAHTZEE® With Buddies and WWE Champions for Scopely.
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
-
+          
+     - role: Product Owner
+      time: 2018 - Present
+      company: Bravestars Game, Vietnam
+      details: |
+       Bravestars was founded in 2013 by a team of young gamers who dreamt of bringing our local culture to the world with video games. 
+       We take care of every single detail to release the best-quality titles to the users. 
+       Throughout our journey, we have launched nearly 20 games with hundred millions of downloads.
+          
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Unity
+        level: 65%
 
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
+      - name: Microsoft Office
         level: 85%
 
       - name: Sketch & Photoshop
