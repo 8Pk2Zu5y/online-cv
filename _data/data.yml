@@ -75,6 +75,7 @@ experiences:
       company: MCG Management Consulting, Vietnam
       details: |
         MCG is one of the leading management consulting firms in Vietnam, specializing in economic reform in the development arena, and corporate restructuring in the business community. 
+        
         I participated in various development projects funded by Vietnamese government and International institutions
          - World Bank
          - ADB
@@ -85,6 +86,7 @@ experiences:
       company: VTC Game, Vietnam
       details: |
         Founded in 2006, VTC Intecom is one of the leading enterprises in building the development platform for the Vietnamese digital content industry. 
+        
         I designed, published and operated popular online mobile games for Vietnamese market:
           - Au3D
           - Tam Quoc VTC
@@ -94,6 +96,7 @@ experiences:
       company: Gear Inc., USA
       details: |
         International staff, global clients, and global titles allow Gear Inc. to offer games to everyone worldwide in any marketplace.
+        
         I designed mobile/web games for both in-house development team and outsourcing clients:
           - Final Fortress for AlleyLabs, 
           - Tribal Mania for Lumba, 
@@ -101,7 +104,7 @@ experiences:
           - Virtual Voodoo for Miniclip, 
           - YAHTZEE® With Buddies and WWE Champions for Scopely.
     
-    - role: Product Owne
+    - role: Product Owner
       time: 2018 - Present
       company: Bravestars Game, Vietnam
       details: |
